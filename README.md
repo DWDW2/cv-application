@@ -1,6 +1,7 @@
 # CV Application
 ## [live-preview here](https://cv-application-kappa.vercel.app/)
-This project is a part of The Odin Project, an open-source curriculum for learning web development. The CV Page component allows users to input personal and professional information, and it renders a CV based on the provided data.
+This project is a part of my work in learning react technology.
+
 
 ## Technologies used
 - React JS
